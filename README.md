@@ -29,11 +29,13 @@
 
 ### 项目流程图
 
-![image-20260529154331811](C:\Users\huihu\AppData\Roaming\Typora\typora-user-images\image-20260529154331811.png)
+<img width="699" height="668" alt="项目流程" src="https://github.com/user-attachments/assets/56020a40-635d-41d3-a5f3-ddc13809f114" />
+
 
 ### 对话流程图
 
-![image-20260529154401272](C:\Users\huihu\AppData\Roaming\Typora\typora-user-images\image-20260529154401272.png)
+<img width="480" height="759" alt="对话流程" src="https://github.com/user-attachments/assets/7d01b994-dd4d-4717-abd3-af813a41c4f3" />
+
 
 ## 二、系统需求分析
 
@@ -595,7 +597,8 @@ services:
 
 #### 10.1 桌面端界面
 
-**![image-20260529160124180](C:\Users\huihu\AppData\Roaming\Typora\typora-user-images\image-20260529160124180.png)**
+<img width="1600" height="751" alt="pc" src="https://github.com/user-attachments/assets/1fb7462f-d3d6-45ef-9e22-ef6814f14163" />
+
 
 **布局**：三栏布局
 
@@ -605,7 +608,8 @@ services:
 
 #### 10.2 移动端界面
 
-![image-20260529160201946](C:\Users\huihu\AppData\Roaming\Typora\typora-user-images\image-20260529160201946.png)
+<img width="405" height="740" alt="手机端" src="https://github.com/user-attachments/assets/ab2855db-d276-4c98-a0c9-cf8f59d63455" />
+
 
 **布局**：底部导航栏 + 浮动抽屉菜单
 
@@ -650,7 +654,8 @@ services:
 | 中度压力 | 15     | 100      | 普通模式 | ≥90%       |
 | 重度压力 | 30     | 200      | 普通模式 | ≥80%       |
 
-![image-20260529160104483](C:\Users\huihu\AppData\Roaming\Typora\typora-user-images\image-20260529160104483.png)
+<img width="1190" height="736" alt="用户模式压力测试图" src="https://github.com/user-attachments/assets/f085db8c-3204-44c7-b02b-6959567bc91d" />
+
 
 #### 12.3 测试结果
 
